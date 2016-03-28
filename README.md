@@ -1,3 +1,1 @@
-# siera
-jekyll theme
 # Dreamlogic

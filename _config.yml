@@ -1,0 +1,18 @@
+# Site settings
+title: dreamlogic.net
+email: todo@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  Travel, Film, Music, Games, and Other Musings of Chris and Kris
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dreamlogic.net" # the base hostname & protocol for your site
+twitter_username: gopherkhan
+github_username:  gopherkhan
+
+# Build settings
+markdown: kramdown
+
+paginate: 4
+
+author: Chris Nelson
+
+gems: [jekyll-paginate]
